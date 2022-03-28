@@ -200,7 +200,7 @@ Lynda.comコースは有料です。
 - [x]  [ABC：常にコーディングする](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [x]  [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ]  [プログラミング面接中の効果的なホワイトボード](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-- [ ]  [技術職募集での謎解き](https://www.youtube.com/watch?v=N233T0epWTs)
+- [x]  [技術職募集での謎解き](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ]  クラッキングコーディング面接セット1：
 	- [ ]  [Gayle L McDowell - コーディング面接(ビデオ)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
 	- [ ]  [Gayle Laakmann McDowell(ビデオ)](https://www.youtube.com/watch?v=aClxtDcdpsQ)とのコーディング面接をクラッキング
@@ -434,7 +434,7 @@ Anki形式の私のフラッシュカードデータベース：https://ankiweb.
 
 ## アルゴリズムの複雑さ/ Big-O / Asymptotic解析
 - 実装するものは何もない
-- [ ]  [Harvard CS50 - 漸近表記(video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x]  [Harvard CS50 - 漸近表記(video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ]  [BigO記法(一般的なクイックチュートリアル)(ビデオ)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [BigO表記(とオメガとシータ) - 最良の数学的説明(ビデオ)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena：
